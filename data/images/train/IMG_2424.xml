@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>IMG_2424.JPG</filename>
+	<path>C:\Users\Woradej\Desktop\train2\IMG_2424.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1664</xmin>
+			<ymin>553</ymin>
+			<xmax>1936</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+</annotation>

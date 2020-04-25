@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>IMG_2368.JPG</filename>
+	<path>C:\Users\Woradej\Desktop\train2\IMG_2368.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>907</xmin>
+			<ymin>1946</ymin>
+			<xmax>1511</xmax>
+			<ymax>2459</ymax>
+		</bndbox>
+	</object>
+</annotation>
