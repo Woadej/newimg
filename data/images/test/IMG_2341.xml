@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test2</folder>
+	<filename>IMG_2341.JPG</filename>
+	<path>C:\Users\Woradej\Desktop\test2\IMG_2341.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>1421</ymin>
+			<xmax>1464</xmax>
+			<ymax>2490</ymax>
+		</bndbox>
+	</object>
+</annotation>
